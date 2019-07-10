@@ -1,0 +1,10 @@
+Music Player Dependancies (react native)
+	1. react-native-responsive-dimensions
+	2. expo-linear-gradient
+	3. @expo/vector-icons
+	4. expo install expo-av for audio library
+	5. react-native-slider -> for seekbar
+	6. react-redux
+	7. redux
+	8. react-natice-router-flux
+	9. redux-thunk
